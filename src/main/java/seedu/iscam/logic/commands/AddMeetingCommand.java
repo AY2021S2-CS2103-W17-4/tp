@@ -57,3 +57,5 @@ public class AddMeetingCommand extends Command {
         return other == this || (other instanceof AddMeetingCommand && toAdd.equals(((AddMeetingCommand) other).toAdd));
     }
 }
+
+// Placeholder comment to make new commit

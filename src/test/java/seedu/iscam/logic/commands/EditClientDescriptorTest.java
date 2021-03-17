@@ -56,3 +56,5 @@ public class EditClientDescriptorTest {
         assertFalse(DESC_AMY.equals(editedAmy));
     }
 }
+
+// Placeholder comment to make new commit

@@ -108,3 +108,5 @@ public class JsonClientBookStorageTest {
         assertThrows(NullPointerException.class, () -> saveClientBook(new ClientBook(), null));
     }
 }
+
+// Placeholder comment to make new commit
